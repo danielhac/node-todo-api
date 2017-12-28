@@ -8,7 +8,7 @@ var id = '5a44206ae76fe03bbcdca72d1';
 var userId = '6a433541ab598e0cb9974760';
 
 // If Object is not valid
-// if(!ObjectID.isValid()) {
+// if(!ObjectID.isValid(id)) {
 //     console.log('ID not valid');
 // }
 
